@@ -4,14 +4,14 @@
 
 <html>
 <head runat="server">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    
 
     <title>MaW</title>
 
     <asp:ContentPlaceHolder id="head" runat="server">
     </asp:ContentPlaceHolder>
-
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -35,8 +35,8 @@
 
 </head>
 
-    <body>
-    <div>
+<body>
+    
         <!-- header-start -->
         <header>
             <div class="header-area ">
@@ -54,22 +54,17 @@
                                 <div class="main-menu  d-none d-lg-block">
                                     <nav>
                                         <ul id="navigation">
-                                            <li><a class="active" href="index.html">home</a></li>
-                                            <li><a href="about.html">About</a></li>
-                                            <li><a href="services.html">Services</a></li>
-                                            <li><a href="#">blog <i class="ti-angle-down"></i></a>
-                                                <ul class="submenu">
-                                                    <li><a href="blog.html">blog</a></li>
-                                                    <li><a href="single-blog.html">single-blog</a></li>
-                                                </ul>
-                                            </li>
+                                            <li><a class="active" href="Default.aspx">home</a></li>
+                                            <li><a href="about.aspx">About</a></li>
+                                            <li><a href="services.aspx">Services</a></li>                                                        
+                                            <li><a href="blog.aspx">blog</a></li>
                                             <li><a href="#">pages <i class="ti-angle-down"></i></a>
                                                 <ul class="submenu">
-                                                     <li><a href="portfolio.html">Portfolio</a></li>
-                                                     <li><a href="elements.html">elements</a></li>
+                                                     <li><a href="portfolio.aspx">Portfolio</a></li>
+                                                     <li><a href="elements.aspx">elements</a></li>
                                                 </ul>
                                             </li>
-                                            <li><a href="contact.html">Contact</a></li>
+                                            <li><a href="contact.aspx">Contact</a></li>
                                         </ul>
                                     </nav>
                                 </div>
@@ -140,7 +135,7 @@
         </footer>
       <!--/ footer end  -->
       <!--/ footer end  -->
-      </div>
+      
 
         <!-- JS here -->
         <script src="js/vendor/modernizr-3.5.0.min.js"></script>
