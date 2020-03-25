@@ -23,7 +23,7 @@
                             <h3>
                                 Studijní obor IT – MaW
                             </h3>
-                            <span>(J)Elita průmky</span>
+                            <span>BadBoys průmky</span>
                         </div>
                     </div>
                 </div>
