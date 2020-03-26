@@ -21,7 +21,7 @@
                     <div class="col-xl-12">
                         <div class="slider_text text-center">
                             <h3>
-                                Studijní obor IT – MaW je napíču
+                                Studijní obor IT – sita je kreten
                             </h3>
                             <span>BadBoys průmky</span>
                         </div>
