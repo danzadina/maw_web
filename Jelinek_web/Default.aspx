@@ -109,7 +109,7 @@
                         <div class="portfolio_thumb">
                             <img src="img/portfolio/1.png" alt="">
                         </div>
-                        <a href="galerie/fotografie.aspx">
+                        <a href="fotografie.aspx">
                             <div class="portfolio_hover">
                                 <div class="title">
                                     <h3>Fotografie</h3>
@@ -124,10 +124,10 @@
                         <div class="portfolio_thumb">
                             <img src="img/portfolio/2.png" alt="">
                         </div>
-                        <a href="galerie/grafika.aspx" >
+                        <a href="grafika.aspx" >
                             <div class="portfolio_hover">
                                 <div class="title">
-                                    <h3>Grafika</h3>
+                                    <h3>Grafický design</h3>
                                 </div>
                             </div>
                         </a>
@@ -138,7 +138,7 @@
                         <div class="portfolio_thumb">
                             <img src="img/portfolio/3.png" alt="">
                         </div>
-                        <a href="galerie/animace.aspx">
+                        <a href="animace.aspx">
                             <div class="portfolio_hover">
                                 <div class="title">
                                     <h3>Animace</h3>
@@ -152,7 +152,7 @@
                         <div class="portfolio_thumb">
                             <img src="img/portfolio/4.png" alt="">
                         </div>
-                        <a href="galerie/webova_stranka.aspx">
+                        <a href="webova_stranka.aspx">
                             <div class="portfolio_hover">
                                 <div class="title">
                                     <h3>Webová stránka</h3>
@@ -166,7 +166,7 @@
                         <div class="portfolio_thumb">
                             <img src="img/portfolio/5.png" alt="">
                         </div>
-                        <a href="galerie/video.aspx">
+                        <a href="video.aspx">
                             <div class="portfolio_hover">
                                 <div class="title">
                                     <h3>Video ???</h3>
