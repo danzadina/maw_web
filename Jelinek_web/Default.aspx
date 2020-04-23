@@ -4,10 +4,17 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
     <!-- slider_area_start -->
+
     <div class="slider_area">
+
+     
         <div class="single_slider  d-flex align-items-center slider_bg_1">
+                                                 <video autoplay muted loop id="myVideo">
+  <source src="img/video.mp4" type="video/mp4" />
+</video>
+
             <div class="shap_pattern d-none d-lg-block">
-                <img src="img/about/grid.png" alt="">
+                <%--<img src="img/about/grid.png" alt="">--%>
             </div>
             <div class="social_links">
                 <ul>

@@ -6789,3 +6789,53 @@ h6 {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+
+
+
+
+
+video {
+    background-color: #333;
+}
+
+
+#myVideo {
+    position: fixed;
+    z-index: -1;
+    opacity: 0.25;
+    background-color: #fbf6da;
+    margin-top: 30px;
+}
+
+@media (min-aspect-ratio: 16/9) {
+    #myVideo
+    #bg-repertoar
+    #bg-recenze
+    #bg-rezervace {
+        width: 105%;
+        height: auto;
+        opacity: 0.25;
+        background-color: #fbf6da;
+    }
+}
+
+@media (max-aspect-ratio: 16/9) {
+    #myVideo
+    #bg-repertoar
+    #bg-recenze
+    #bg-rezervace {
+        width: auto;
+        height: 105%;
+        opacity: 0.25;
+        background-color: #fbf6da;
+    }
+}
+
+@media (max-width: 767px) {
+    #myVideo {
+        width: auto;
+        height: 720px;
+        opacity: 0.25;
+        background-color: #fbf6da;
+    }
