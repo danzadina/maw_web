@@ -20,10 +20,7 @@
                 <div class="row align-items-center">
                     <div class="col-xl-12">
                         <div class="slider_text text-center">
-                            <h3>
-                                Studijní obor IT – Multimédia a webdesign
-                            </h3>
-                            <span>BadBoys průmky</span>
+                           <img src="img/logo-velke.png" class="logo-velke" alt="">
                         </div>
                     </div>
                 </div>
