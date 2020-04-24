@@ -6806,14 +6806,12 @@ video {
     opacity: 0.25;
     background-color: #fbf6da;
     margin-top: 30px;
+    width: 100vw;
 }
 
 @media (min-aspect-ratio: 16/9) {
-    #myVideo
-    #bg-repertoar
-    #bg-recenze
-    #bg-rezervace {
-        width: 105%;
+    #myVideo {
+        width: 100vw;
         height: auto;
         opacity: 0.25;
         background-color: #fbf6da;
@@ -6821,12 +6819,9 @@ video {
 }
 
 @media (max-aspect-ratio: 16/9) {
-    #myVideo
-    #bg-repertoar
-    #bg-recenze
-    #bg-rezervace {
+    #myVideo {
         width: auto;
-        height: 105%;
+        height: 100vw;
         opacity: 0.25;
         background-color: #fbf6da;
     }
@@ -6835,7 +6830,7 @@ video {
 @media (max-width: 767px) {
     #myVideo {
         width: auto;
-        height: 720px;
+        height: 100vw;
         opacity: 0.25;
         background-color: #fbf6da;
     }
