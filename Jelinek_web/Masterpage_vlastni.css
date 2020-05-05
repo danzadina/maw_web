@@ -1,2 +1,15 @@
 ﻿body {   
 }
+.mapouter {
+    position: relative;
+    text-align: center;
+    height: 500px;
+    width: 100%;
+}
+
+.gmap_canvas {
+    overflow: hidden;
+    background: none !important;
+    height: 500px;
+    width: 100%;
+}
